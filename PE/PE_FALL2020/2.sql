@@ -1,0 +1,1 @@
+select * from ranking_criteria

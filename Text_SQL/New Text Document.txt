@@ -1,0 +1,4 @@
+String: left, right, len, trim, substring
+number: count, max, min, sum avg, round, rank
+Date: getdate, dateAdd, dateDiff, day, month, year
+Avanced: convert, isnumberic
